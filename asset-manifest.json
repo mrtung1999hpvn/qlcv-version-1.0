@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/qlcv-version-1.0/static/css/main.3d7b650e.chunk.css",
+    "main.js": "/qlcv-version-1.0/static/js/main.66549c39.chunk.js",
+    "main.js.map": "/qlcv-version-1.0/static/js/main.66549c39.chunk.js.map",
+    "runtime-main.js": "/qlcv-version-1.0/static/js/runtime-main.ed9fc6a6.js",
+    "runtime-main.js.map": "/qlcv-version-1.0/static/js/runtime-main.ed9fc6a6.js.map",
+    "static/js/2.78fc6c6d.chunk.js": "/qlcv-version-1.0/static/js/2.78fc6c6d.chunk.js",
+    "static/js/2.78fc6c6d.chunk.js.map": "/qlcv-version-1.0/static/js/2.78fc6c6d.chunk.js.map",
+    "index.html": "/qlcv-version-1.0/index.html",
+    "precache-manifest.c88bada6be31fc03dd814aed0eb146f9.js": "/qlcv-version-1.0/precache-manifest.c88bada6be31fc03dd814aed0eb146f9.js",
+    "service-worker.js": "/qlcv-version-1.0/service-worker.js",
+    "static/css/main.3d7b650e.chunk.css.map": "/qlcv-version-1.0/static/css/main.3d7b650e.chunk.css.map",
+    "static/js/2.78fc6c6d.chunk.js.LICENSE.txt": "/qlcv-version-1.0/static/js/2.78fc6c6d.chunk.js.LICENSE.txt",
+    "static/media/Spinner-1s-200px.gif": "/qlcv-version-1.0/static/media/Spinner-1s-200px.7dbeceaa.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed9fc6a6.js",
+    "static/js/2.78fc6c6d.chunk.js",
+    "static/css/main.3d7b650e.chunk.css",
+    "static/js/main.66549c39.chunk.js"
+  ]
+}
